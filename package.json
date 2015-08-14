@@ -1,6 +1,6 @@
 {
   "name": "npm-version-bump",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Inject custom modifications into the npm version commit",
   "main": "index.js",
   "directories": {
@@ -39,5 +39,9 @@
   "bugs": {
     "url": "https://github.com/watson/npm-version-bump/issues"
   },
-  "homepage": "https://github.com/watson/npm-version-bump#readme"
+  "homepage": "https://github.com/watson/npm-version-bump#readme",
+  "coordinates": [
+    53.03145192264998,
+    13.30569277227778
+  ]
 }
